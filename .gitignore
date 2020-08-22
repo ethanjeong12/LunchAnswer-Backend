@@ -11,6 +11,7 @@ db.sqlite3
 db.sqlite3-journal
 media
 
+new_db.py
 my_settings.py
 db_uploader.py
 *.csv
